@@ -1,14 +1,14 @@
 # city-explorer-api
 # Project Name
 
-**Author**: Your Name Goes Here
+**Author**: Raajvardhan
 **Version**: 1.0.0 (increment the patch/fix version number if you make more commits past your first submission)
 
 ## Overview
-<!-- Provide a high level overview of what this application is and why you are building it, beyond the fact that it's an assignment for this class. (i.e. What's your problem domain?) -->
+sever for mock weather.json data
 
 ## Getting Started
-<!-- What are the steps that a user must take in order to build this app on their own machine and get it running? -->
+used express and cors to create swerver using node.js
 
 ## Architecture
 <!-- Provide a detailed description of the application design. What technologies (languages, libraries, etc) you're using, and any other relevant design information. -->
@@ -23,12 +23,11 @@
 Time Estimates
 For each of the lab features, make an estimate of the time it will take you to complete the feature, and record your start and finish times for that feature:
 
-Name of feature: ________________________________
+Name of feature: Created server back end and got it to send query request
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 4 hrs
 
-Start time: _____
+Start time: 1300
 
-Finish time: _____
-
-Actual time needed to complete: _____
+Finish time: 1800
+Actual time needed to complete: 5 hours
