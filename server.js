@@ -2,6 +2,8 @@
 require('dotenv').config();
 const express = require('express');
 const cors = require('cors');
+const axios = require('axios');
+
 // const shoppingList = require('./myShoppingList.json');
 const weather = require('./data/weather.json');
 const app = express();
