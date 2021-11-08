@@ -33,3 +33,15 @@ Finish time: 1800
 Actual time needed to complete: 5 hours
 
 <img src = "./workflow lab 07.jpg">
+
+# lab 10
+
+Name of feature: Added cache for movie and wx using starter code
+
+Estimate of time needed to complete: 1 hr
+
+Start time: 1500
+
+Finish time: 1545
+
+Actual time needed to complete: 45 min
